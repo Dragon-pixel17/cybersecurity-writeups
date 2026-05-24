@@ -3,7 +3,6 @@
 
 ## Labs réalisés
 - Simulation backdoor avec reverse shell (Netcat + Bash)
-- Arsène Lupin — VulnHub (en cours)
 - Exemple d'audit de sécurité
 
 ## Environnement
